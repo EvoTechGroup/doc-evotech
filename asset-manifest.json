@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/doc-evotech/static/css/main.f855e6bc.css",
-    "main.js": "/doc-evotech/static/js/main.293586a6.js",
-    "static/js/488.6604cf42.chunk.js": "/doc-evotech/static/js/488.6604cf42.chunk.js",
-    "index.html": "/doc-evotech/index.html",
-    "main.f855e6bc.css.map": "/doc-evotech/static/css/main.f855e6bc.css.map",
-    "main.293586a6.js.map": "/doc-evotech/static/js/main.293586a6.js.map",
-    "488.6604cf42.chunk.js.map": "/doc-evotech/static/js/488.6604cf42.chunk.js.map"
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.7159ec16.js",
+    "static/js/488.6604cf42.chunk.js": "/static/js/488.6604cf42.chunk.js",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.7159ec16.js.map": "/static/js/main.7159ec16.js.map",
+    "488.6604cf42.chunk.js.map": "/static/js/488.6604cf42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.293586a6.js"
+    "static/js/main.7159ec16.js"
   ]
 }
